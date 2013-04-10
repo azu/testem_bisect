@@ -12,9 +12,4 @@ function some(){
 function some(){
 
 }//
-function some(){
-
-}//
-function some(){
-
-}
+//
