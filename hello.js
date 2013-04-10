@@ -8,4 +8,13 @@ function hello(name){
 //
 function some(){
 
+}//
+function some(){
+
+}//
+function some(){
+
+}//
+function some(){
+
 }
